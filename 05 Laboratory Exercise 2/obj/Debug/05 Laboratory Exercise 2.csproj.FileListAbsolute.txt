@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\bin\Debug\05 Laboratory Exercise 2.exe.config
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\bin\Debug\05 Laboratory Exercise 2.exe
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\bin\Debug\05 Laboratory Exercise 2.pdb
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\05 Laboratory Exercise 2.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\_05_Laboratory_Exercise_2.FrmStudentRecord.resources
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\_05_Laboratory_Exercise_2.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\_05_Laboratory_Exercise_2.Student_Record.resources
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\05 Laboratory Exercise 2.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\05 Laboratory Exercise 2.exe
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\05 Laboratory Exercise 2.pdb
+C:\Users\ComputerLab4PC1\source\repos\05 Laboratory Exercise 2\obj\Debug\_05_Laboratory_Exercise_2.FrmFileName.resources
